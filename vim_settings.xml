@@ -1,0 +1,426 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-framework/src/test/java/org/chinaums/framework/annotation/TestStatistics.java" timestamp="1554816825206">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-framework/src/main/java/org/chinaums/framework/annotation/Statisitics.java" timestamp="1554816469639">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-exchange/src/main/java/com/chinaums/FieldUtil.java" timestamp="1542288201952">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+      </file>
+      <file name="/a.dummy" timestamp="1554905504030">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-transport/src/main/java/com/chinaums/netty/service/NettySeviceHandler.java" timestamp="1546670990007">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/comx/framework/src/main/java/com/x/framework/core/Field.java" timestamp="1556838879648">
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-web/src/main/resources/web.xml" timestamp="1546672680066">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="76" />
+        <mark key="." line="3" column="76" />
+        <mark key="^" line="3" column="76" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/netty/codec/src/main/java/io/netty/handler/codec/LengthFieldBasedFrameDecoder.java" timestamp="1555193919173">
+        <mark key="'" line="186" column="61" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-web/pom.xml" timestamp="1544627667282">
+        <mark key="[" line="49" column="21" />
+        <mark key="]" line="50" column="10" />
+        <mark key="." line="50" column="10" />
+        <mark key="^" line="50" column="10" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-exchange/src/main/java/com/chinaums/LengthFieldFrameDecoder.java" timestamp="1541949368456">
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-framework/src/main/java/org/chinaums/framework/DataPacket.java" timestamp="1543674104037">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="8" column="38" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="8" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/comx/framework/src/main/java/com/x/framework/core/FieldList.java" timestamp="1556839676651">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-web/src/main/java/com/chinaums/pay/web/LoginApplication.java" timestamp="1546674517528">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="26" />
+        <mark key="^" line="20" column="26" />
+        <mark key="." line="20" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-activemq/src/main/resources/config/activemq.properties" timestamp="1542895943108">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-framework/src/main/java/org/chinaums/framework/BaseApplication.java" timestamp="1543672699000">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+        <mark key="^" line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-transport/src/main/java/com/chinaums/netty/channel/TcpLongChannelHandler.java" timestamp="1555195119262">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="54" column="38" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-framework/src/main/java/org/chinaums/framework/IncomChannel.java" timestamp="1543672617055">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-framework/src/main/java/org/chinaums/framework/ApplicationContext.java" timestamp="1543672670270">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-cache/src/main/java/com/chinaums/UserDaoImp.java" timestamp="1548430545255">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/netty/transport/src/main/java/io/netty/channel/ChannelHandlerMask.java" timestamp="1555193047699">
+        <mark key="'" line="182" column="6" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/comx/pom.xml" timestamp="1556837995694">
+        <mark key="'" line="8" column="24" />
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-transport/src/test/java/com/chinaums/netty/TestClient.java" timestamp="1546670881083">
+        <mark key="[" line="28" column="71" />
+        <mark key="]" line="29" column="28" />
+        <mark key="." line="29" column="28" />
+        <mark key="^" line="29" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-cache/src/main/resources/redis.yaml" timestamp="1548429747470">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-transport/src/main/java/com/chinaums/netty/util/MessageDecoder.java" timestamp="1546504662930">
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="19" column="9" />
+        <mark key="." line="19" column="9" />
+        <mark key="^" line="19" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-transport/src/main/java/com/chinaums/netty/TransportContext.java" timestamp="1546504248346">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-cache/src/main/resources/spring-redis.xml" timestamp="1548429949386">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-framework/src/main/java/org/chinaums/framework/annotation/StatisticsAspect.java" timestamp="1554905612094">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-example/src/main/java/com/chinaums/tests/SystemConfiguration.java" timestamp="1543669338229">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="32" />
+        <mark key="." line="26" column="32" />
+        <mark key="^" line="26" column="32" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-common/pom.xml" timestamp="1542451441670">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-framework/src/main/java/org/chinaums/framework/Transaction.java" timestamp="1543746714585">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="4" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/netty/example/src/main/java/io/netty/example/echo/EchoClient.java" timestamp="1555195260925">
+        <mark key="'" line="54" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-cache/pom.xml" timestamp="1548429607702">
+        <mark key="[" line="22" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-common/src/main/java/com/chinaums/core/TaskExcutor.java" timestamp="1546504010160">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/gitee/src/java/comx/framework/src/main/java/com/x/framework/core/Context.java" timestamp="1557757522898">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="12" column="6" />
+        <mark key="^" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-exchange/src/main/java/com/chinaums/FskRequest.java" timestamp="1542289038322">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="25" />
+        <mark key="^" line="22" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-example/pom.xml" timestamp="1543669380445">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="10" />
+        <mark key="." line="22" column="10" />
+        <mark key="^" line="22" column="10" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-example/src/main/resources/log4j.properties" timestamp="1543671140587">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-example/src/log4j.properties" timestamp="1543668376661">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-cache/src/main/java/com/chinaums/CacheUtil.java" timestamp="1542893414094">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1546687770794">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-framework/src/main/java/org/chinaums/framework/annotation/StatisticsProcess.java" timestamp="1554818044215">
+        <mark key="[" line="3" column="45" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-transport/src/main/java/com/chinaums/netty/SignalNettyClient.java" timestamp="1555195202573">
+        <mark key="'" line="29" column="16" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-web/src/main/java/com/chinaums/pay/web/PayWebApplication.java" timestamp="1546671323663">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="15" column="4" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-framework/src/main/java/org/chinaums/framework/BaseException.java" timestamp="1543672292784">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/netty/codec/src/main/java/io/netty/handler/codec/MessageToMessageDecoder.java" timestamp="1555192982228">
+        <mark key="'" line="51" column="73" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-web/src/main/resources/application.properties" timestamp="1544627704894">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-framework/pom.xml" timestamp="1554817271831">
+        <mark key="[" line="17" column="50" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-framework/src/main/java/org/chinaums/framework/Protocol.java" timestamp="1543672743300">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/netty/transport/src/main/java/io/netty/channel/ChannelInboundHandlerAdapter.java" timestamp="1555193005034">
+        <mark key="'" line="53" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/netty/codec/src/main/java/io/netty/handler/codec/ByteToMessageDecoder.java" timestamp="1555194567605">
+        <mark key="'" line="371" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-exchange/src/main/java/com/chinaums/IFieldElement.java" timestamp="1542288616020">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-transport/src/main/java/com/chinaums/netty/util/TransportConfig.java" timestamp="1546504438092">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-all/pom.xml" timestamp="1542451070272">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-framework/src/main/java/org/chinaums/framework/Remote.java" timestamp="1543672140389">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pay/pay-example/src/main/java/com/chinaums/tests/RunWithJndi.java" timestamp="1543671639937">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+        <mark key="^" line="19" column="19" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="188" column="41" filename="$USER_HOME$/IdeaProjects/netty/codec/src/main/java/io/netty/handler/codec/LengthFieldBasedFrameDecoder.java" />
+      <jump line="191" column="3" filename="$USER_HOME$/IdeaProjects/netty/codec/src/main/java/io/netty/handler/codec/LengthFieldBasedFrameDecoder.java" />
+      <jump line="190" column="4" filename="$USER_HOME$/IdeaProjects/netty/codec/src/main/java/io/netty/handler/codec/LengthFieldBasedFrameDecoder.java" />
+      <jump line="189" column="4" filename="$USER_HOME$/IdeaProjects/netty/codec/src/main/java/io/netty/handler/codec/LengthFieldBasedFrameDecoder.java" />
+      <jump line="129" column="20" filename="$USER_HOME$/IdeaProjects/netty/codec/src/main/java/io/netty/handler/codec/json/JsonObjectDecoder.java" />
+      <jump line="189" column="17" filename="$USER_HOME$/IdeaProjects/netty/codec/src/main/java/io/netty/handler/codec/json/JsonObjectDecoder.java" />
+      <jump line="22" column="57" filename="$USER_HOME$/IdeaProjects/pay/pay-transport/src/main/java/com/chinaums/netty/client/AbstractClient.java" />
+      <jump line="24" column="8" filename="$USER_HOME$/IdeaProjects/pay/pay-common/src/test/java/com/chinaums/core/TestByte.java" />
+      <jump line="29" column="20" filename="$USER_HOME$/IdeaProjects/pay/pay-common/src/test/java/com/chinaums/core/TestByte.java" />
+      <jump line="33" column="45" filename="$USER_HOME$/IdeaProjects/pay/pay-common/src/test/java/com/chinaums/core/TestByte.java" />
+      <jump line="4" column="23" filename="$USER_HOME$/IdeaProjects/pay/pay-common/src/test/java/com/chinaums/core/TestByte.java" />
+      <jump line="91" column="15" filename="$USER_HOME$/IdeaProjects/pay/pay-common/src/main/java/com/chinaums/core/ByteUtil.java" />
+      <jump line="78" column="36" filename="$USER_HOME$/IdeaProjects/pay/pay-common/src/main/java/com/chinaums/core/ByteUtil.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/src/main/java/com/chinaums/RunWithJndi.java" />
+      <jump line="344" column="62" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/javax/naming/InitialContext.java" />
+      <jump line="312" column="61" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/javax/naming/InitialContext.java" />
+      <jump line="241" column="12" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/javax/naming/InitialContext.java" />
+      <jump line="239" column="47" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/javax/naming/InitialContext.java" />
+      <jump line="128" column="37" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/pom.xml" />
+      <jump line="123" column="26" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/pom.xml" />
+      <jump line="124" column="18" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/pom.xml" />
+      <jump line="51" column="34" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/src/main/java/com/chinaums/RunWithJndi.java" />
+      <jump line="9" column="64" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/src/main/resources/log4j2.properties" />
+      <jump line="37" column="20" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/src/main/java/com/chinaums/RunWithJndi.java" />
+      <jump line="34" column="26" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/src/main/java/com/chinaums/RunWithJndi.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/src/main/java/com/chinaums/RunWithJndi.java" />
+      <jump line="36" column="20" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/src/main/java/com/chinaums/RunWithJndi.java" />
+      <jump line="39" column="14" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/src/main/java/com/chinaums/RunWithJndi.java" />
+      <jump line="41" column="14" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/src/main/java/com/chinaums/RunWithJndi.java" />
+      <jump line="50" column="14" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/src/main/java/com/chinaums/RunWithJndi.java" />
+      <jump line="54" column="14" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/src/main/java/com/chinaums/RunWithJndi.java" />
+      <jump line="60" column="14" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/src/main/java/com/chinaums/RunWithJndi.java" />
+      <jump line="45" column="23" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/src/main/java/com/chinaums/RunWithJndi.java" />
+      <jump line="7" column="33" filename="$USER_HOME$/IdeaProjects/pay/pay-framework/src/main/java/org/chinaums/framework/TransactionCategory.java" />
+      <jump line="3" column="23" filename="$USER_HOME$/IdeaProjects/pay/pay-activemq/pom.xml" />
+      <jump line="51" column="73" filename="$USER_HOME$/IdeaProjects/netty/codec/src/main/java/io/netty/handler/codec/MessageToMessageDecoder.java" />
+      <jump line="53" column="7" filename="$USER_HOME$/IdeaProjects/netty/transport/src/main/java/io/netty/channel/ChannelInboundHandlerAdapter.java" />
+      <jump line="182" column="6" filename="$USER_HOME$/IdeaProjects/netty/transport/src/main/java/io/netty/channel/ChannelHandlerMask.java" />
+      <jump line="186" column="61" filename="$USER_HOME$/IdeaProjects/netty/codec/src/main/java/io/netty/handler/codec/LengthFieldBasedFrameDecoder.java" />
+      <jump line="300" column="24" filename="$USER_HOME$/IdeaProjects/netty/codec/src/main/java/io/netty/handler/codec/ByteToMessageDecoder.java" />
+      <jump line="371" column="25" filename="$USER_HOME$/IdeaProjects/netty/codec/src/main/java/io/netty/handler/codec/ByteToMessageDecoder.java" />
+      <jump line="30" column="19" filename="$USER_HOME$/IdeaProjects/pay/pay-transport/src/main/java/com/chinaums/netty/SignalNettyClient.java" />
+      <jump line="29" column="16" filename="$USER_HOME$/IdeaProjects/pay/pay-transport/src/main/java/com/chinaums/netty/SignalNettyClient.java" />
+      <jump line="54" column="19" filename="$USER_HOME$/IdeaProjects/netty/example/src/main/java/io/netty/example/echo/EchoClient.java" />
+      <jump line="8" column="24" filename="$USER_HOME$/IdeaProjects/comx/pom.xml" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBnZXRDbGFzc2lmeSgpIDsK</text>
+      </register>
+      <register name="-" type="4">
+        <text>Name</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxwYXJlbnRcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBWYWx1ZSgie3VzZX0iKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBnZXRDbGFzc2lmeSgpIDsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzLz4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+ZGVtbyBmb3IgaTwvZGVwZW5kZW5jaWVzPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IENoYW5uZWxIYW5kbGVyWzBdOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBDaGFubmVsSGFuZGxlcltdIGNyZWF0ZUhhbmRsZXJzKCkgdGhyb3dzIEV4Y2VwdGlvbiB7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxwYXJlbnRcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxwYXJlbnRcPg==</last-pattern>
+      <last-replace>0</last-replace>
+      <last-substitute>\\</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
+        <entry>'</entry>
+        <entry>\/0</entry>
+        <entry>\\</entry>
+        <entry encoding="base64">XDxzdHJpbmcyQnl0ZXNcPg==</entry>
+        <entry encoding="base64">XDxteVByb3BzXD4=</entry>
+        <entry>lombok</entry>
+        <entry encoding="base64">XDxTeXN0ZW1cPg==</entry>
+        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDzmn6Xor6LorqLljZXkv6Hmga/mmK/lkKblrZjlnKhcPg==</entry>
+        <entry encoding="base64">XDxwYXJlbnRcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>e!</entry>
+        <entry>w!</entry>
+        <entry>s/'//g</entry>
+        <entry>s/\/0/g</entry>
+        <entry>s/\\/0/g</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
