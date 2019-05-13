@@ -63,6 +63,12 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="14" />
       </file>
+      <file name="$USER_HOME$/git/gitee/src/java/comx/framework/src/main/java/com/x/framework/core/Invoke.java" timestamp="1557759063127">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/pay/pay-web/src/main/java/com/chinaums/pay/web/LoginApplication.java" timestamp="1546674517528">
         <mark key="[" line="20" column="22" />
         <mark key="]" line="20" column="26" />
@@ -173,11 +179,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/git/gitee/src/java/comx/framework/src/main/java/com/x/framework/core/Context.java" timestamp="1557757522898">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="12" column="6" />
-        <mark key="^" line="12" column="6" />
-        <mark key="." line="12" column="6" />
+      <file name="$USER_HOME$/git/gitee/src/java/comx/framework/src/main/java/com/x/framework/core/Context.java" timestamp="1557758904287">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/pay/pay-exchange/src/main/java/com/chinaums/FskRequest.java" timestamp="1542289038322">
         <mark key="[" line="22" column="22" />
@@ -275,6 +281,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/git/gitee/src/java/comx/framework/src/main/java/com/x/framework/Result.java" timestamp="1557759102484">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/pay/pay-framework/src/main/java/org/chinaums/framework/Remote.java" timestamp="1543672140389">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -336,44 +348,44 @@
       <jump line="8" column="24" filename="$USER_HOME$/IdeaProjects/comx/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBnZXRDbGFzc2lmeSgpIDsK</text>
+      <register name="&quot;" type="4">
+        <text>First</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>First</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJlbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgie3VzZX0iKQo=</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gaXNGaXJzdCgpIDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBnZXRDbGFzc2lmeSgpIDsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzLz4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+ZGVtbyBmb3IgaTwvZGVwZW5kZW5jaWVzPgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5TZXR0ZXI7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5HZXR0ZXI7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG5hbWUgOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">QFNldHRlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IENoYW5uZWxIYW5kbGVyWzBdOwo=</text>
+        <text encoding="base64">QEdldHRlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDaGFubmVsSGFuZGxlcltdIGNyZWF0ZUhhbmRsZXJzKCkgdGhyb3dzIEV4Y2VwdGlvbiB7Cg==</text>
+        <text encoding="base64">QFNsZjRqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBnZXRDbGFzc2lmeSgpIDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
