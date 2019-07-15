@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/alibaba/canal.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://144.131.254.74:5446/ums-ueg" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\course\java" />
+    <option name="cloneParentDir" value="E:\work\microserv" />
   </component>
 </application>
