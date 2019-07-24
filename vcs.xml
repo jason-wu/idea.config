@@ -6,8 +6,28 @@
           <option name="url" value="https://github.com/netty/netty.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="xiang_kgd@163.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://144.131.254.74:5446" />
+          <option name="userName" value="hxwu" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://xiang15.visualstudio.com" />
+          <option name="userName" value="xiang_kgd@163.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alibaba/canal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://144.131.254.74:5446/ums-ueg" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+    <option name="cloneParentDir" value="E:\work\microserv" />
   </component>
 </application>
