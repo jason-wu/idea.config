@@ -3,7 +3,7 @@
     <property name="created">2019-08-05T09:11:42</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-05T09:15:40</property>
+    <property name="modified">2019-08-05T13:33:49</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -15,6 +15,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d73a49" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d73a49" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d73a49" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="32f62" />
     <option name="FILESTATUS_MERGED" value="6f42c1" />
     <option name="FILESTATUS_MODIFIED" value="5cc5" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5cc5" />
