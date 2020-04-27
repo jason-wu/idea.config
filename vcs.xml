@@ -34,9 +34,13 @@
           <option name="url" value="git@144.131.254.74:ums-ueg/ueg-net.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://144.131.254.74:5446/tpos/tpos-core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\work\microserv" />
+    <option name="cloneParentDir" value="E:\git" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
