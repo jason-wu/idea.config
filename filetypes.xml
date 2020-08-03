@@ -2,8 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="配置说明.md" type="PLAIN_TEXT" />
-      <mapping ext="tx" type="PLAIN_TEXT" />
+      <mapping pattern="sm2" type="PLAIN_TEXT" />
       <mapping ext="propeties" type="PLAIN_TEXT" />
+      <mapping ext="tx" type="PLAIN_TEXT" />
       <mapping pattern="setup" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
