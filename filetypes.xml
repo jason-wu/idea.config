@@ -5,6 +5,7 @@
       <mapping pattern="sm2" type="PLAIN_TEXT" />
       <mapping ext="ket" type="PLAIN_TEXT" />
       <mapping ext="propeties" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="tx" type="PLAIN_TEXT" />
       <mapping pattern="setup" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
